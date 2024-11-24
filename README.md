@@ -71,8 +71,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes | Yes |
 | [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | No | Yes | No |
 
-
-<br >
 <br >
 
 ### Anti-Malware
@@ -94,8 +92,6 @@ API | Description | Auth | HTTPS | CORS |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | `apiKey` | Yes | Unknown |
 | [Web of Trust](https://support.mywot.com/hc/en-us/sections/360004477734-API-) | IP/domain/URL reputation | `apiKey` | Yes | Unknown | 
 
-
-<br >
 <br >
 ### Art & Design
 API | Description | Auth | HTTPS | CORS |
@@ -121,8 +117,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Word Cloud](https://wordcloudapi.com/) | Easily create word clouds | `apiKey` | Yes | Unknown |
 | [xColors](https://x-colors.herokuapp.com/) | Generate & convert colors | No | Yes | Yes |
 
-
-<br >
 <br >
 ### Authentication & Authorization
 API | Description | Auth | HTTPS | CORS |
@@ -135,8 +129,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | `apiKey` | Yes | No |
 | [Warrant](https://warrant.dev/) | APIs for authorization and access control | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Blockchain
 | API | Description | Auth | HTTPS | CORS |
@@ -153,8 +145,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Walltime](https://walltime.info/api.html) | To retrieve Walltime's market info | No | Yes | Unknown |
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Books
 API | Description | Auth | HTTPS | CORS |
@@ -183,8 +173,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Get information from the Harry Potter universe | No | Yes | Yes |
 | [Wolne Lektury](https://wolnelektury.pl/api/) | API for obtaining information about e-books available on the WolneLektury.pl website | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Business
 API | Description | Auth | HTTPS | CORS |
@@ -213,8 +201,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | `apiKey` | Yes | Yes |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Calendar
 API | Description | Auth | HTTPS | CORS |
@@ -236,8 +222,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Cloud Storage & File Sharing
 API | Description | Auth | HTTPS | CORS |
@@ -262,8 +246,6 @@ API | Description | Auth | HTTPS | CORS |
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Yes | Unknown | |
 | [Web3 Storage](https://web3.storage/) | File Sharing and Storage for Free with 1TB Space | `apiKey` | Yes | Yes | |
 
-
-<br >
 <br >
 ### Continuous Integration
 API | Description | Auth | HTTPS | CORS |
@@ -275,8 +257,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Codeship](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/) | Codeship is a Continuous Integration Platform in the cloud | `apiKey` | Yes | Unknown |
 | [Travis CI](https://docs.travis-ci.com/api/) | Sync your GitHub projects with Travis CI to test your code in minutes | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Cryptocurrency
 API | Description | Auth | HTTPS | CORS |
@@ -346,8 +326,6 @@ API | Description | Auth | HTTPS | CORS |
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | `apiKey` | Yes | Unknown |
 | [ZMOK](https://zmok.io) | Ethereum JSON RPC API and Web3 provider | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Currency Exchange
 API | Description | Auth | HTTPS | CORS |
@@ -384,8 +362,6 @@ API | Description | Auth | HTTPS | CORS |
 | [US Street Address](https://www.smarty.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | `apiKey` | Yes | Yes | |
 | [vatlayer](https://vatlayer.com/documentation) | VAT number validation | `apiKey` | Yes | Unknown | |
 
-
-<br >
 <br >
 ### Development
 API | Description | Auth | HTTPS | CORS |
@@ -511,9 +487,6 @@ API | Description | Auth | HTTPS | CORS |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Yes | Unknown |
 
-
-
-<br >
 <br >
 ### Dictionaries
 API | Description | Auth | HTTPS | CORS |
@@ -532,8 +505,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Wordnik](https://developer.wordnik.com) | Dictionary Data | `apiKey` | Yes | Unknown |
 | [Words](https://www.wordsapi.com/docs/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Documents & Productivity
 API | Description | Auth | HTTPS | CORS |
@@ -591,8 +562,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Sendinblue](https://developers.sendinblue.com/docs) | A service that provides solutions relating to marketing and/or transactional email and/or SMS | `apiKey` | Yes | Unknown |
 | [Verifier](https://verifier.meetchopra.com/docs#/) | Verifies that a given email is real | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Entertainment
 API | Description | Auth | HTTPS | CORS |
@@ -608,8 +577,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Techy](https://techy-api.vercel.app/) | JSON and Plaintext API for tech-savvy sounding phrases | No | Yes | Unknown |
 | [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2) | REST API for Yo Momma Jokes | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Environment
 API | Description | Auth | HTTPS | CORS |
@@ -632,8 +599,6 @@ API | Description | Auth | HTTPS | CORS |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
 | [Website Carbon](https://api.websitecarbon.com/) | API to estimate the carbon footprint of loading web pages | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Events
 API | Description | Auth | HTTPS | CORS |
@@ -642,8 +607,6 @@ API | Description | Auth | HTTPS | CORS |
 | [SeatGeek](https://platform.seatgeek.com/) | Search events, venues and performers | `apiKey` | Yes | Unknown |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Finance
 API | Description | Auth | HTTPS | CORS |
@@ -694,8 +657,6 @@ API | Description | Auth | HTTPS | CORS |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes | |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth` | Yes | Unknown | |
 
-
-<br >
 <br >
 ### Food & Drink
 API | Description | Auth | HTTPS | CORS |
@@ -725,8 +686,6 @@ API | Description | Auth | HTTPS | CORS |
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Games & Comics
 API | Description | Auth | HTTPS | CORS |
@@ -828,8 +787,6 @@ API | Description | Auth | HTTPS | CORS |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | Yes | No |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Geocoding
 API | Description | Auth | HTTPS | CORS |
@@ -921,8 +878,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Zippopotam.us](http://www.zippopotam.us) | Get information about place such as country, city, state, etc | No | No | Unknown |
 | [Ziptastic](https://ziptasticapi.com/) | Get the country, state, and city of any US zip-code | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Government
 API | Description | Auth | HTTPS | CORS |
@@ -1014,8 +969,6 @@ API | Description | Auth | HTTPS | CORS |
 | [USA.gov](https://www.usa.gov/developer) | Authoritative information on U.S. programs, events, services and more | `apiKey` | Yes | Unknown |
 | [USAspending.gov](https://api.usaspending.gov/) | US federal spending data | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Health
 API | Description | Auth | HTTPS | CORS |
@@ -1052,8 +1005,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Orion Health](https://developer.orionhealth.io/) | Medical platform which allows the development of applications for different healthcare scenarios | `OAuth` | Yes | Unknown |
 | [Quarantine](https://quarantine.country/coronavirus/api/) | Coronavirus API with free COVID-19 live updates | No | Yes | Yes |
 
-
-<br >
 <br >
 ### Jobs
 API | Description | Auth | HTTPS | CORS |
@@ -1105,8 +1056,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Music
 API | Description | Auth | HTTPS | CORS |
@@ -1145,8 +1094,6 @@ API | Description | Auth | HTTPS | CORS |
 | [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Music | `apiKey` | Yes | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/) | Crowdsourced lyrics and music knowledge | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### News
 API | Description | Auth | HTTPS | CORS |
@@ -1171,8 +1118,6 @@ API | Description | Auth | HTTPS | CORS |
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | `apiKey` | Yes | Yes |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api) | Search through the National Library of Australia collection of 1000s of digitised newspapers | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Open Data
 API | Description | Auth | HTTPS | CORS |
@@ -1213,8 +1158,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page) | Mediawiki Encyclopedia | No | Yes | Unknown |
 | [Yelp](https://www.yelp.com/developers/documentation/v3) | Find Local Business | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Open Source Projects
 API | Description | Auth | HTTPS | CORS |
@@ -1229,8 +1172,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Metabase](https://www.metabase.com/) | An open source Business Intelligence server to share data and analytics inside your company | No | Yes | Yes |
 | [Shields](https://shields.io/) | Concise, consistent, and legible badges in SVG and raster format | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Patent
 API | Description | Auth | HTTPS | CORS |
@@ -1240,8 +1181,6 @@ API | Description | Auth | HTTPS | CORS |
 | [TIPO](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) | Taiwan patent search system api | `apiKey` | Yes | Unknown |
 | [USPTO](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) | USA patent api services | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Personality
 API | Description | Auth | HTTPS | CORS |
@@ -1270,8 +1209,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | On demand HTTP Codes with images | No | Yes | No |
 | [Zen Quotes](https://zenquotes.io/) | Large collection of Zen quotes for inspiration | No | Yes | Yes |
 
-
-<br >
 <br >
 ### Phone
 API | Description | Auth | HTTPS | CORS |
@@ -1282,8 +1219,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Phone Specification](https://github.com/azharimm/phone-specs-api) | Rest Api for Phone specifications | No | Yes | Yes |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Photography
 API | Description | Auth | HTTPS | CORS |
@@ -1318,8 +1253,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Wallhaven](https://wallhaven.cc/help/api) | Wallpapers | `apiKey` | Yes | Unknown |
 | [Webdam](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) | Images | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Programming
 API | Description | Auth | HTTPS | CORS |
@@ -1330,8 +1263,6 @@ API | Description | Auth | HTTPS | CORS |
 | [KONTESTS](https://kontests.net/api) | For upcoming and ongoing competitive coding contests | No | Yes | Unknown |
 | [Mintlify](https://docs.mintlify.com) | For programmatically generating documentation for code | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Science & Math
 API | Description | Auth | HTTPS | CORS |
@@ -1370,8 +1301,6 @@ API | Description | Auth | HTTPS | CORS |
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | No | Yes | No |
 | [xMath](https://x-math.herokuapp.com/) | Random mathematical expressions | No | Yes | Yes |
 
-
-<br >
 <br >
 ### Security
 API | Description | Auth | HTTPS | CORS |
@@ -1415,8 +1344,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Virushee](https://api.virushee.com/) | Virushee file/data scanning | No | Yes | Yes |
 | [VulDB](https://vuldb.com/?doc.api) | VulDB API allows to initiate queries for one or more items along with transactional bots | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Shopping
 API | Description | Auth | HTTPS | CORS |
@@ -1436,10 +1363,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | `OAuth` | Yes | Unknown |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | `apiKey` | Yes | Yes |
 
-
-<br >
-<br >
-<br >
 <br >
 ### Social
 API | Description | Auth | HTTPS | CORS |
@@ -1485,8 +1408,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Sports & Fitness
 API | Description | Auth | HTTPS | CORS |
@@ -1525,8 +1446,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | `OAuth` | Yes | Unknown |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | `apiKey` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Test Data
 API | Description | Auth | HTTPS | CORS |
@@ -1557,8 +1476,6 @@ API | Description | Auth | HTTPS | CORS |
 | [What The Commit](http://whatthecommit.com/index.txt) | Random commit message generator | No | No | Yes |
 | [Yes No](https://yesno.wtf/api) | Generate yes or no randomly | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Text Analysis
 API | Description | Auth | HTTPS | CORS |
@@ -1579,8 +1496,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | `OAuth` | Yes | Yes |
 | [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Natural language processing for advanced text analysis | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Tracking
 API | Description | Auth | HTTPS | CORS |
@@ -1595,8 +1510,6 @@ API | Description | Auth | HTTPS | CORS |
 | [WeCanTrack](https://docs.wecantrack.com) | Automatically place subids in affiliate links to attribute affiliate conversions to click data | `apiKey` | Yes | Yes |
 | [WhatPulse](https://developer.whatpulse.org/#web-api) | Small application that measures your keyboard/mouse usage | No | Yes | Unknown |
 
-
-<br >
 <br >
 ### Transportation
 API | Description | Auth | HTTPS | CORS |
@@ -1671,8 +1584,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth` | Yes | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | No | Yes | No |
 
-
-<br >
 <br >
 ### URL Shorteners
 API | Description | Auth | HTTPS | CORS |
@@ -1697,8 +1608,6 @@ API | Description | Auth | HTTPS | CORS |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
 | [UrlBae](https://urlbae.com/developers) | Simple and efficient short link creation | `apiKey` | Yes | Yes |
 
-
-<br >
 <br >
 ### Vehicle
 API | Description | Auth | HTTPS | CORS |
@@ -1710,8 +1619,6 @@ API | Description | Auth | HTTPS | CORS |
 | [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | No | Yes | Unknown |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth` | Yes | Yes |
 
-
-<br >
 <br >
 ### Video
 API | Description | Auth | HTTPS | CORS |
@@ -1760,8 +1667,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | No | Yes | Yes |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps | `OAuth` | Yes | Unknown |
 
-
-<br >
 <br >
 ### Weather
 API | Description | Auth | HTTPS | CORS |
@@ -1798,11 +1703,4 @@ API | Description | Auth | HTTPS | CORS |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
 
-
 <br >
-<br >
-
-<br>
-
-## License
-[MIT](LICENSE) (c) 2022 public-apis
